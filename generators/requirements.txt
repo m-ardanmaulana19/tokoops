@@ -1,0 +1,5 @@
+# Versions match the TokoOps.exe embedded bundle (see docs/BUILDING.md).
+pandas>=3.1.1
+numpy>=2.5.4
+matplotlib>=3.11.2
+reportlab>=5.1.0

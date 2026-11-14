@@ -1,0 +1,9 @@
+target/
+*.exe
+*.zip
+__pycache__/
+data/
+bundle/
+dist/
+*.pdf
+.DS_Store
